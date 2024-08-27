@@ -1,0 +1,15 @@
+D:\CursoFullStack\ExemploPOO\obj\Debug\net8.0\ExemploPOO.GeneratedMSBuildEditorConfig.editorconfig
+D:\CursoFullStack\ExemploPOO\obj\Debug\net8.0\ExemploPOO.AssemblyInfoInputs.cache
+D:\CursoFullStack\ExemploPOO\obj\Debug\net8.0\ExemploPOO.AssemblyInfo.cs
+D:\CursoFullStack\ExemploPOO\obj\Debug\net8.0\ExemploPOO.csproj.CoreCompileInputs.cache
+D:\CursoFullStack\ExemploPOO\obj\Debug\net8.0\ExemploPOO.sourcelink.json
+D:\CursoFullStack\ExemploPOO\bin\Debug\net8.0\ExemploPOO.exe
+D:\CursoFullStack\ExemploPOO\bin\Debug\net8.0\ExemploPOO.deps.json
+D:\CursoFullStack\ExemploPOO\bin\Debug\net8.0\ExemploPOO.runtimeconfig.json
+D:\CursoFullStack\ExemploPOO\bin\Debug\net8.0\ExemploPOO.dll
+D:\CursoFullStack\ExemploPOO\bin\Debug\net8.0\ExemploPOO.pdb
+D:\CursoFullStack\ExemploPOO\obj\Debug\net8.0\ExemploPOO.dll
+D:\CursoFullStack\ExemploPOO\obj\Debug\net8.0\refint\ExemploPOO.dll
+D:\CursoFullStack\ExemploPOO\obj\Debug\net8.0\ExemploPOO.pdb
+D:\CursoFullStack\ExemploPOO\obj\Debug\net8.0\ExemploPOO.genruntimeconfig.cache
+D:\CursoFullStack\ExemploPOO\obj\Debug\net8.0\ref\ExemploPOO.dll
