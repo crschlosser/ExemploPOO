@@ -7,11 +7,21 @@ namespace ExemploPOO.Models
 {
     public class Pessoa
     {
+        public Pessoa()
+        {
+            
+        }
+        public Pessoa(string nome)
+        {
+            Nome = nome;
+        }
         public string Nome { get; set; }
         public int Idade { get; set; }
+        public string Email { get; set; }
 
 
-        public void Apresentar()
+//        public void Apresentar()
+        public virtual void Apresentar()   // para polimorfismo
         {
                 Console.WriteLine($"Olá, me chamo {Nome} e tenho {Idade} anos!");
         }

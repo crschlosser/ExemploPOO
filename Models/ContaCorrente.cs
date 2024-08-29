@@ -14,8 +14,8 @@ namespace ExemploPOO.Models
         }
         public int NumeroConta { get; set; }
         private decimal saldo;
-        private int v1;
-        private double v2;
+        // private int v1;
+        // private double v2;
 
         public void Sacar(Decimal valor)
         {
