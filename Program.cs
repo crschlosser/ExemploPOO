@@ -1,13 +1,22 @@
 ﻿using System.Diagnostics.CodeAnalysis;
 using ExemploPOO.Models;
+using ExemploPOO.Interfaces;
 
-//Console.Clear();
-
-
-Computador c = Computador();
+Console.Clear();
 
 
-Console.WriteLine(c.ToString());
+ICalculadora calc = new Calculadora();
+Console.WriteLine(calc.Multiplicar(3,9));
+
+
+
+
+
+
+// Computador c = new Computador();
+
+
+// Console.WriteLine(c.ToString());
 
 
 
