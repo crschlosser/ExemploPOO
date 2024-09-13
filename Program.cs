@@ -4,18 +4,28 @@ using ExemploPOO.Models;
 //Console.Clear();
 
 
-Pessoa p1 = new Pessoa("Carlos");
-Aluno a1 = new Aluno("José");
-
-Professor pr1 = new Professor("");
-
-Diretor d1 = new Diretor();
+Computador c = Computador();
 
 
-a1.Apresentar();
-p1.Apresentar();
-pr1.Apresentar();
-d1.Apresentar();
+Console.WriteLine(c.ToString());
+
+
+
+
+
+
+// Pessoa p1 = new Pessoa("Carlos");
+// Aluno a1 = new Aluno("José");
+
+// Professor pr1 = new Professor("");
+
+// Diretor d1 = new Diretor();
+
+
+// a1.Apresentar();
+// p1.Apresentar();
+// pr1.Apresentar();
+// d1.Apresentar();
 
 
 
